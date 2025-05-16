@@ -11,9 +11,7 @@ Este repositório contém projetos desenvolvidos para fins educacionais, com foc
 
 ## Estrutura
 
-- `exemplos/`: Scripts demonstrativos de scraping.
-- `exercicios/`: Atividades práticas para os alunos.
-- `materiais/`: Slides, artigos e links de referência.
+- `revenda_scrap/`: Sistema simulando revenda para scrap
 
 ## Requisitos
 
